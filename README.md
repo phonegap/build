@@ -13,6 +13,5 @@ Check out the [public bug tracker](https://github.com/phonegap/build/issues) for
 
 You can also check out our [GetSatisfaction site](http://community.phonegap.com/nitobi/) to ask questions, report problems or give us feedback.
 
----
 
 Thanks from all of us on the PhoneGap Build team!
