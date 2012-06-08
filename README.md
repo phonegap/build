@@ -1,11 +1,15 @@
 PhoneGap Build
 =====
 
+## Bug tracking
+
 Have a problem with PhoneGap Build? Don't like the color scheme that [Ryan](http://github.com/ryanbetts) chose?
 
-[Check out the public bug tracker for PhoneGap Build and give us your feedback!](https://github.com/phonegap/build/issues)
+Check out the [public bug tracker](https://github.com/phonegap/build/issues) for PhoneGap Build and give us your feedback!
 
-You can also check out our GetSatisfaction site to ask questions, report problems or give us feedback.
+## GetSatisfaction
+
+You can also check out our [GetSatisfaction site](http://community.phonegap.com/nitobi/) to ask questions, report problems or give us feedback.
 
 ---
 
