@@ -56,7 +56,7 @@ To check whether your plugin is packaged correctly for each supported platform:
 plugin stored in `/Users/alunny/dev/plugin` into an iOS project stored in
 `/Users/alunny/dev/my_project`, run:
 
-    pluginstall ios /Users/alunny/dev/my_project /Users/alunny/dev/plugin
+    `pluginstall ios /Users/alunny/dev/my_project /Users/alunny/dev/plugin`
 
 3. Verify that the project can build without error, that the plugin is
 included, and that any JavaScript code using the plugin executes correctly.
@@ -71,5 +71,5 @@ an issue on the appropriate GitHub project.
 
 [pgdocs]:http://docs.phonegap.com/en/2.1.0/guide_plugin-development_index.md.html
 [pins]:https://github.com/alunny/pluginstall
-[pins]:https://github.com/alunny/cordova-plugin-spec
+[spec]:https://github.com/alunny/cordova-plugin-spec
 [child]:https://github.com/alunny/ChildBrowser
