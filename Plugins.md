@@ -43,10 +43,10 @@ PhoneGap Build uses the [pluginstall][pins] tool to install plugins into the
 native projects we generate for our users. We are currently using the `0.5.0`
 release of pluginstall.
 
-The correct format for plugins used by pluginstall is documented in [a separate
-spec][spec]. For an example of a plugin built according to that spec, please
-see [the ChildBrowser plugin][child], which is currently active on PhoneGap
-Build.
+The correct format for plugins used by pluginstall is documented in
+[a separate spec][spec]. For an example of a plugin built according to that
+spec, please see [the ChildBrowser plugin][child], which is currently active
+on PhoneGap Build.
 
 To check whether your plugin is packaged correctly for each supported platform:
 
