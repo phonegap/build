@@ -1,6 +1,6 @@
 # Developing Plugins for PhoneGap Build
 
-Last updated October 5, 2012.
+Last updated October 24, 2012.
 
 We are interested in working with partners to develop plugins for use on
 PhoneGap Build. Any plugins added to our system right now will be accessible
@@ -64,6 +64,28 @@ included, and that any JavaScript code using the plugin executes correctly.
 All of the above tools and specifications are in active development. If you find
 a limitation or an error with pluginstall or the specification, please create
 an issue on the appropriate GitHub project.
+
+## Submitting Your Plugin
+
+Once your plugin is in a state that you're happy with, please email
+build@phonegap.com and we'll take the next steps to get the plugin integrated
+on PhoneGap Build.
+
+Our criteria for including the plugin on PhoneGap Build, broadly speaking, are:
+
+1. We believe it legitimately adds value for our users.
+2. We can build an app using your plugin, and verify that it works.
+3. We can do a quick review of the source code, and flag anything that concerns
+us (security risks, compiler warnings, that sort of thing).
+
+If we're not satisfied with any of the above, we'll get back to you with our
+concerns, and hopefully we can reach a resolution. If you're worried that your
+plugin will not meet our standards, please get in contact while you're
+developing so we can help you out.
+
+We are still figuring out our deployment strategy for plugins, so the timeframe
+for getting a plugin onto the system is currently unknown. Once we have a
+process established with multiple plugins, this document will be updated.
 
 ## Authors
 
