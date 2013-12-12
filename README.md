@@ -15,3 +15,6 @@ You can also check out our [GetSatisfaction site](http://community.phonegap.com/
 
 
 Thanks from all of us on the PhoneGap Build team!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/phonegap/build/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
