@@ -1,18 +1,15 @@
-PhoneGap Build
+PhoneGap Build 
 =====
+This repository is a bug tracker for PhoneGap Build. Issues here should be limited to the PhoneGap Build web service (the site, the REST API, or compilation problems). If your issue is with usage of the PhoneGap framework, you should take it to one of the channels below.
 
-Have a problem with PhoneGap Build? Don't like the color scheme that [Ryan](http://github.com/ryanbetts) chose?
+Before reporting your issue here, please consider starting a discussion on the [PhoneGap Build Support Forum](http://community.phonegap.com).
 
-You've come to the right place!
+If your issue is with usage of the PhoneGap framework, please go to:
+- [The PhoneGap Google Group](http://groups.google.com/group/phonegap)
+- [StackOverflow](http://www.stackoverflow.com)
+- [Apache Cordoav Issue Tracker](https://issues.apache.org/jira/browse/CB)
 
-## Bug tracking
-
-Check out the [public bug tracker](https://github.com/phonegap/build/issues) for PhoneGap Build and give us your feedback!
-
-## GetSatisfaction
-
-You can also check out our [GetSatisfaction site](http://community.phonegap.com/nitobi/) to ask questions, report problems or give us feedback.
-
+If your issue is with the PhoneGap Build website, the REST API, or any PhoneGap Build configuration issues, post to the [public bug tracker](https://github.com/phonegap/build/issues).
 
 Thanks from all of us on the PhoneGap Build team!
 
