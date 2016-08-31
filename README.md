@@ -7,7 +7,7 @@ Before reporting your issue here, please consider starting a discussion on the [
 If your issue is with usage of the PhoneGap framework, please go to:
 - [The PhoneGap Google Group](http://groups.google.com/group/phonegap)
 - [StackOverflow](http://www.stackoverflow.com)
-- [Apache Cordoav Issue Tracker](https://issues.apache.org/jira/browse/CB)
+- [Apache Cordova Issue Tracker](https://issues.apache.org/jira/browse/CB)
 
 If your issue is with the PhoneGap Build website, the REST API, or any PhoneGap Build configuration issues, post to the [public bug tracker](https://github.com/phonegap/build/issues).
 
