@@ -1,25 +1,18 @@
-#Filing a bug
+PhoneGap Build 
+=====
 
-We appreciate hearing feedback from our community as it helps us guide what we work on for PhoneGap Build. What’s the best way to reach out? Check the Get Satisfaction PhoneGap Build Customer Community [common issues page](http://community.phonegap.com/nitobi/problems/common) for repeat issues with plug-in support, build queue issues, etc.
+**Please start a discussion in the [PhoneGap Build Support Forum](http://community.phonegap.com) prior to opening an issue here**.
 
-**For bugs**, try searching existing issues first. These include those that are [common](http://community.phonegap.com/nitobi/problems/common), [solved](http://community.phonegap.com/nitobi/problems/solved), [being worked on](http://community.phonegap.com/nitobi/problems/active), and [recent](http://community.phonegap.com/nitobi/problems/recent).  Include steps to consistently reproduce the problem, actual vs. expected results, and your OS and PhoneGap Build version number. Read more guidelines for filing good bugs...
+This repository is a bug tracker for PhoneGap Build. Issues here should be limited to the PhoneGap Build web service (the site, the REST API, or compilation problems). If your issue is with usage of the PhoneGap framework, you should take it to one of the channels below.
 
-**For feature requests**, please check our [ideas queue](http://community.phonegap.com/nitobi/ideas/under_consideration) first to see if it's already there.  These include those that are [popular](http://community.phonegap.com/nitobi/ideas/popular), [under consideration](http://community.phonegap.com/nitobi/ideas/under_consideration), [planned](http://community.phonegap.com/nitobi/ideas/planned), [completed](http://community.phonegap.com/nitobi/ideas/completed), [not planned](http://community.phonegap.com/nitobi/ideas/rejected) and [recent](http://community.phonegap.com/nitobi/ideas/recent). You can up-vote ideas you'd like to see.
- 
-How to Report a PhoneGap Build Issue
------
-Found a bug you'd like to tell us about? Great!
+Prior to creating an issue please:
+- Search both this repo and the [PhoneGap Build Support Forum](http://community.phonegap.com) for an existing issue that might solve your problem.
+- Start a discussion at [PhoneGap Build Support Forum](http://community.phonegap.com)
 
-##How to file a bug
+If your issue is with usage of the PhoneGap framework, please go to:
+- [The PhoneGap Google Group](http://groups.google.com/group/phonegap)
+- [StackOverflow](http://www.stackoverflow.com)
+- [Apache Cordova Issue Tracker](https://issues.apache.org/jira/browse/CB)
 
-PhoneGap Build bugs are tracked in the issue list on GetSatisfaction. Always search for existing issues before filing a new one (use the search field at the top of the page).
+Thanks from all of us on the PhoneGap Build team!
 
-When filing a new bug, please remember to include:
-
-- A helpful title - use descriptive keywords in the title and body so others can find your bug (avoiding duplicates).
-- Steps to reproduce the problem, with actual vs. expected results
-- OS & PhoneGap Build version
-- Screenshots are very helpful if you're seeing an error message or a UI display problem. (Just drag an image into the issue description field to include it).
-    
-##How to file a bug about a 3rd party plug-in
-There has been great adoption of usage of the new 3rd party plug-in feature since its introduction on PGB.  Dozens of plug-ins were submitted for approval, posting, and ultimate usage by our complete user base.    Please keep in mind that these plug-ins, although hosted on the Adobe build.phonegap.com site, are the responsibility of the plug-in authors.  Hence, questions with the plug-ins should be directed to the plug-in authors and not the Adobe PhoneGap Build team.
